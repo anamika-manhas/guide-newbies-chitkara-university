@@ -3,8 +3,8 @@
 var model = [
   {
     name: "Chitkara school of engineering and technology",
-    lat: 30.5164775,
-    lng: 76.6573737,
+    lat: 30.5176089,
+    lng: 76.6573809,
     show: true,
     selected: false,
     venueid: "5257ea5111d20d6aea85a5b6"
