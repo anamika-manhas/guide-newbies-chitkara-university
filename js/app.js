@@ -43,8 +43,8 @@ var model = [
   },
   {
     name: "UCO bank",
-    lat: 30.5172656,
-    lng: 76.6559074,
+    lat: 30.517609,
+    lng: 76.657702,
     show: true,
     selected: false,
     venueid: "4d3102ed2c76a143e5bb60c7"
